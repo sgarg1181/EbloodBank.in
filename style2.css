@@ -1,0 +1,136 @@
+* {
+	margin: 0px;
+	padding: 1px;
+}
+body {
+	font-size: 100%;
+}
+
+.header {
+	width: 35%;
+	height: 5%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #5F9EA0;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+form, .content {
+	width: 35%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.input-group input {
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
+.error {
+	width: 92%; 
+	margin: 0px auto; 
+	padding: 10px; 
+	border: 1px solid #a94442; 
+	color: #a94442; 
+	background: #f2dede; 
+	border-radius: 5px; 
+	text-align: left;
+}
+.success {
+	color: #3c763d; 
+	background: #dff0d8; 
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+.navbar-1 li{
+	padding: 0.5px;
+	list-style: none;
+	float: left;
+	background:black;
+}
+.list-1{
+	background:green;
+	color:white;
+	width: 120%;
+	display:inline-block;
+}
+.heading{
+	font-family: 'New times roman';
+	margin-top: 20px;
+	margin-bottom: 10px;
+	word-spacing: 8px;
+}
+.row_about{
+	width: 300px;
+	padding-top: 5px;
+	align-content: center;
+	background:#5F9EA0;
+	color: white;
+	font-weight: lighter;
+}
+.row_head{
+	padding: 0px;
+	background-image:url("first.jpeg");
+	height:450px;
+	background-repeat: no-repeat;
+}
+.container{
+	padding-left: 0.5px;
+	margin-right: 10px; 
+	text-align: left;
+	color: black;
+	background-color: #00b38f;
+	height: 310px;
+}
+.container div{
+	background-color: white;
+	height: 300px;
+	width: 220px;
+	border: 2px solid black;
+	float: left;
+	text-align: center;
+}
+.one{
+	position: absolute;
+	margin-left: 170px;
+}
+.two{
+	position: absolute;
+	margin-left: 420px;
+}
+.three{
+	position: absolute;
+	margin-left: 670px;
+}
+.four{
+	position: absolute;
+	margin-left: 920px;
+}
+.navbar navbar-expand-lg navbar-inverse{
+	float: left;
+}

@@ -1,0 +1,58 @@
+body{
+    font-size: 1.4em;
+}
+
+.blogpost{
+    background-color: #f5f5f5;
+    padding: 10px 10px 10px 0px;
+    overflow: hidden;
+}
+
+#heading{
+    color: #005E90;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#heading:hover{
+    color: #0090DB;
+}
+.description{
+    color: #868686;
+    font-weight:bold;
+    margin-top:-2px;
+}
+.post{
+     font-size: 1.1em;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      text-align: justify;
+}
+.btn-info{
+    margin-left: 10px;
+    float: right;
+}
+.background{
+    background: #f6f7f9;
+}
+h3{
+                        background-color: black;
+                        color: #27aae1;
+                        text-align: center;
+                    }
+.CommentBlock{
+background-color:#F6F7F9;
+}
+.Comment-info{
+	color: #365899;
+	font-family: sans-serif;
+	font-size: 1.1em;
+	font-weight: bold;
+	padding-top: 10px;
+        
+	
+}
+.comment{
+    margin-top:-2px;
+    padding-bottom: 10px;
+    font-size: 1.1em
+}
+
